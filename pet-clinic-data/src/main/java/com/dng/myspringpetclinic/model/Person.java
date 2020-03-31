@@ -1,4 +1,4 @@
-package com.dng.myspringpetclinic.model;
+package model;
 
 public class Person {
     private String firstName;
