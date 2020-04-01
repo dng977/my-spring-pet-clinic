@@ -1,4 +1,4 @@
-package model;
+package com.dng.myspringpetclinic.model;
 
 import java.time.LocalDate;
 
